@@ -1,0 +1,15 @@
+{
+  "name": "automatic-disco",
+  "version": "1.0.0",
+  "description": "Traversy tailwind css follow along to solve frontend mentor challange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
